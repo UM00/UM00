@@ -1,12 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=Hue+Hue+Hue.;WELCOME+TO+MY+GITHUB.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=Hue+Hue+Hue.......)](https://git.io/typing-svg)
 
-<h3 align="center">🚀 Secure Full Stack Developer | AI Enthusiast | Automation Lover</h3>
-<h4 align="center">Crafting scalable systems by day, breaking & automating them by night ⚡</h4>
+<h3 align="center">🚀</h3>
+<h4 align="center"> ⚡</h4>
 
 </br>
 
 👨‍💻 **Software Developer @ Pakistan MNP Databases**  
-🧠 **Software Engineer @ Brainbox Automations**
+
 
 I'm a **Cyber Security graduate** and a **Full Stack Developer** passionate about building secure, scalable, and smart systems—from national-level **Spring Boot APIs** to cloud-first **React apps**.
 
