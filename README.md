@@ -8,15 +8,16 @@
 👨‍💻 **Software Developer @ Pakistan MNP Databases**  
 
 
-I'm a **Cyber Security graduate** and a **Full Stack Developer** passionate about building secure, scalable, and smart systems—from national-level **Spring Boot APIs** to cloud-first **React apps**.
+I'm a **UMOO**.
 
-When I’m not coding at work, I’m usually:
-- 🔐 Applying cyber knowledge to harden my own stacks.
-- 🗣️ Building real-time voice chatbot tools using OpenAI.
-- 📦 Publishing fun & useful side projects on [npm](https://www.npmjs.com/settings/muhammad-huzaifa/packages).
-- 🤖 Automating repetitive dev work so others don’t waste time doing **khuwari**.
+When I’m not at work, I’m usually:
+- 😴 Sleeping.
+- ⛰️ Up in the Mountains.
+- 📖 In Fiction.
+- 🎞️ In Anime.
+- 🎮 In a Game.
 
-Let’s build something **amazing** together.
+
 
 ---
 
@@ -39,16 +40,14 @@ Let’s build something **amazing** together.
 
 ### 🛠 Tools I Love
 <p align="center">
-  <img src="https://github.com/huzaifi0604/huzaifi0604/blob/main/pics/353176.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #68a063);"/>
-  <img src="https://assets.tryhackme.com/img/modules/metasploit.png" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #ff0000);"/>
-  <img src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/wireshark.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #2c97de);"/>
-  <img src="https://github.com/keeferrourke/la-capitaine-icon-theme/blob/master/apps/scalable/nmap_icon.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #00ffbf);"/>
-  <img src="https://github.com/huzaifi0604/huzaifi0604/blob/main/pics/2020-splunk-planet.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #ff8800);"/>
-  <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #cccccc);"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #61dafb);"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #3c873a);"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #0db7ed);"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #00758f);"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #61dafb);" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #3c873a);" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #0db7ed);" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #00758f);" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #dc382d);" alt="Redis" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #f89820);" alt="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #1f5b93);" alt="MariaDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #ff6600);" alt="RabbitMQ" />
 </p>
 
 ---
@@ -66,17 +65,11 @@ Let’s build something **amazing** together.
 
 ### 📈 GitHub Stats
 <p align="center">
-  <a href="https://github.com/mhuzaifi0604/">
+  <a href="https://github.com/UM00/">
     <img
       height="200px"
       style="margin-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhuzaifi0604&langs_count=8&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&title_color=ffffff&text_color=ffffff&bg_color=90,2c5364,203a43,0f2027"
-    />
-  </a>
-  <a href="https://github.com/mhuzaifi0604">
-    <img
-      height="200px"
-      src="https://github-readme-stats.vercel.app/api?username=mhuzaifi0604&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=90,0f2027,203a43,2c5364"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=UM00&langs_count=8&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&title_color=ffffff&text_color=ffffff&bg_color=90,2c5364,203a43,0f2027"
     />
   </a>
 </p>
