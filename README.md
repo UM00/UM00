@@ -35,6 +35,7 @@ When I’m not at work, I’m usually:
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="60" height="60" style="filter: drop-shadow(0px 0px 8px #000000);"/>
   <img src="https://github.com/mhuzaifi0604/Resume/blob/main/solidity.svg" width="65" height="65" style="filter: drop-shadow(0px 0px 8px #8c8c8c);"/>
   <img src="https://github.com/mhuzaifi0604/Resume/blob/main/typescript-2.svg" width="60" height="60" style="filter: drop-shadow(0px 0px 8px #3178c6);"/>
+  <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" width="60" height="60" style="filter: drop-shadow(0px 0px 8px #00acd7);" alt="Go" />
 </p>
 
 ---
