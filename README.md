@@ -31,6 +31,7 @@ When I’m not at work, I’m usually:
   <img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/SQL.png" width="60" height="60" style="filter: drop-shadow(0px 0px 8px #00758f);"/>
   <img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/HTML5.png" width="60" height="60" style="filter: drop-shadow(0px 0px 8px #e34c26);"/>
   <img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/CSS3.png" width="60" height="60" style="filter: drop-shadow(0px 0px 8px #264de4);"/>
+    <img src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg" width="60" height="60" style="filter: drop-shadow(0px 0px 8px #cc2229);" alt="YAML" />
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="60" height="60" style="filter: drop-shadow(0px 0px 8px #000000);"/>
   <img src="https://github.com/mhuzaifi0604/Resume/blob/main/solidity.svg" width="65" height="65" style="filter: drop-shadow(0px 0px 8px #8c8c8c);"/>
   <img src="https://github.com/mhuzaifi0604/Resume/blob/main/typescript-2.svg" width="60" height="60" style="filter: drop-shadow(0px 0px 8px #3178c6);"/>
@@ -48,6 +49,7 @@ When I’m not at work, I’m usually:
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #6db33f);" alt="Spring Boot" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #1f5b93);" alt="MariaDB" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #ff6600);" alt="RabbitMQ" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #d24939);" alt="Jenkins" />
 </p>
 
 ---
