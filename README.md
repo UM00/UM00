@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=Hue+Hue+Hue.......;I+DO+STUFF)](https://git.io/typing-svg)
 
-<h3 align="left">🚀Off To Gargantua</h3>
+<h3 align="left">🚀Off To Bug Hunting </h3>
 
 
 </br>
