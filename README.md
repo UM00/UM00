@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=Hue+Hue+Hue.......)](https://git.io/typing-svg)
 
-<h3 align="center">🚀Off To Gargantua</h3>
-<h4 align="center">⚡</h4>
+<h3 align="left">🚀Off To Gargantua</h3>
+
 
 </br>
 
@@ -55,12 +55,11 @@ Let’s build something **amazing** together.
 
 ### 📬 Let's Connect
 <p align="center">
-  <a href="mailto:huzzaifaasim@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" height="50" style="filter: drop-shadow(0 0 8px #db4437);"/></a>
-  <a href="https://github.com/mhuzaifi0604"><img src="https://img.icons8.com/color/2x/github--v1.png" height="50" style="filter: drop-shadow(0 0 8px #333);"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-huzaifa-707b43226/"><img src="https://img.icons8.com/color/2x/linkedin.png" height="50" style="filter: drop-shadow(0 0 8px #0077b5);"/></a>
-  <a href="https://www.instagram.com/huzaifi0604/"><img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202090instagramlogosocialsocialmedia-115598_115703.png" height="50" style="filter: drop-shadow(0 0 8px #e1306c);"/></a>
-  <a href="https://medium.com/@huzzaifaasim/"><img src="https://github.com/huzaifi0604/huzaifi0604/blob/main/pics/icons8-medium-64.png" height="50" style="filter: drop-shadow(0 0 8px #00ab6c);"/></a>
-  <a href="https://www.npmjs.com/~muhammad-huzaifa"><img src="https://img.icons8.com/color/48/npm.png" height="50" style="filter: drop-shadow(0 0 8px #cb3837);"/></a>
+  <a href="mailto:umar.idrees.1906@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" height="50" style="filter: drop-shadow(0 0 8px #db4437);"/></a>
+  <a href="https://github.com/UMOO"><img src="https://img.icons8.com/color/2x/github--v1.png" height="50" style="filter: drop-shadow(0 0 8px #333);"/></a>
+  <a href="https://www.linkedin.com/in/umar-bin-idrees-205b73242/"><img src="https://img.icons8.com/color/2x/linkedin.png" height="50" style="filter: drop-shadow(0 0 8px #0077b5);"/></a>
+  <a href="https://www.instagram.com/umar.idrees_1906/"><img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202090instagramlogosocialsocialmedia-115598_115703.png" height="50" style="filter: drop-shadow(0 0 8px #e1306c);"/></a>
+  <a href="https://www.npmjs.com/~umar_bin_idrees"><img src="https://img.icons8.com/color/48/npm.png" height="50" style="filter: drop-shadow(0 0 8px #cb3837);"/></a>
 </p>
 
 ---
@@ -86,7 +85,7 @@ Let’s build something **amazing** together.
 ---
 
 ### 🌟 Featured Projects
-<p align="center">
+<p align="left">
     I don't Do Shit Publicly
 </p>
 
