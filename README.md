@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=Hue+Hue+Hue.......)](https://git.io/typing-svg)
 
-<h3 align="center">🚀</h3>
-<h4 align="center"> ⚡</h4>
+<h3 align="center">🚀Off To Gargantua</h3>
+<h4 align="center">⚡</h4>
 
 </br>
 
