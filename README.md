@@ -90,21 +90,6 @@ Let’s build something **amazing** together.
   <a href="https://github.com/mhuzaifi0604/Innocent-Shell">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=Innocent-Shell&hide_border=true&border_radius=15&title_color=ffffff&text_color=ffffff&bg_color=90,0f2027,203a43,2c5364" />
   </a>
-  <a href="https://github.com/mhuzaifi0604/spellbound">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=spellbound&hide_border=true&border_radius=15&title_color=ffffff&text_color=ffffff&bg_color=90,0f2027,203a43,2c5364" />
-  </a>
-  <a href="https://github.com/mhuzaifi0604/Sorting-Visualizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=Sorting-Visualizer&hide_border=true&border_radius=15&title_color=ffffff&text_color=ffffff&bg_color=90,0f2027,203a43,2c5364" />
-  </a>
-  <a href="https://github.com/mhuzaifi0604/Port-Knocker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=port-knocker&hide_border=true&border_radius=15&title_color=ffffff&text_color=ffffff&bg_color=90,0f2027,203a43,2c5364" />
-  </a>
-  <a href="https://github.com/mhuzaifi0604/Debit-Hub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=Debit-Hub&hide_border=true&border_radius=15&title_color=ffffff&text_color=ffffff&bg_color=90,0f2027,203a43,2c5364" />
-  </a>
-  <a href="https://github.com/mhuzaifi0604/Learning-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=Learning-Management-System&hide_border=true&border_radius=15&title_color=ffffff&text_color=ffffff&bg_color=90,0f2027,203a43,2c5364" />
-  </a>
 </p>
 
 
