@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=%F0%9F%91%8B%2C+Hue+Hue+Hue.;WELCOME+TO+MY+GITHUB.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=Hue+Hue+Hue.;WELCOME+TO+MY+GITHUB.)](https://git.io/typing-svg)
 
 <h3 align="center">🚀 Secure Full Stack Developer | AI Enthusiast | Automation Lover</h3>
 <h4 align="center">Crafting scalable systems by day, breaking & automating them by night ⚡</h4>
