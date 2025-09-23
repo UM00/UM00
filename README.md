@@ -87,9 +87,7 @@ Let’s build something **amazing** together.
 
 ### 🌟 Featured Projects
 <p align="center">
-  <a href="https://github.com/mhuzaifi0604/Innocent-Shell">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifi0604&repo=Innocent-Shell&hide_border=true&border_radius=15&title_color=ffffff&text_color=ffffff&bg_color=90,0f2027,203a43,2c5364" />
-  </a>
+    I don't Do Shit Publicly
 </p>
 
 
