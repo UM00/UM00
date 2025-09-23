@@ -45,7 +45,7 @@ When I’m not at work, I’m usually:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #0db7ed);" alt="Docker" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #00758f);" alt="MySQL" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #dc382d);" alt="Redis" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #f89820);" alt="Java" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #6db33f);" alt="Spring Boot" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #1f5b93);" alt="MariaDB" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" width="50" height="50" style="filter: drop-shadow(0px 0px 8px #ff6600);" alt="RabbitMQ" />
 </p>
