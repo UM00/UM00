@@ -72,7 +72,7 @@ When I’m not at work, I’m usually:
     <img
       height="200px"
       style="margin-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=UM00&langs_count=8&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&title_color=ffffff&text_color=ffffff&bg_color=90,2c5364,203a43,0f2027"
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=UM00&langs_count=8&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&title_color=ffffff&text_color=ffffff&bg_color=90,2c5364,203a43,0f2027"
     />
   </a>
 </p>
