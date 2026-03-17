@@ -8,7 +8,7 @@
 👨‍💻 **Software Developer @ Pakistan MNP Databases**  
 
 
-I'm a **UMOO**.
+I'm  **UMOO**.
 
 When I’m not at work, I’m usually:
 - 😴 Sleeping.
