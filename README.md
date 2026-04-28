@@ -1,5 +1,4 @@
 ---------------------------------------------------------------------------------------------------
-<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=Hue+Hue+Hue.......;I+DO+STUFF)](https://git.io/typing-svg)
 
@@ -85,12 +84,12 @@ When I’m not at work, I’m usually:
   </a>
 </p>
 
-
+<div align="center">
 ### 🌟 Featured Projects
 <p align="left">
     I don't Shit Publicly
 </p>
-
+</div>
 
 ---
 
