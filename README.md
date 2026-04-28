@@ -86,7 +86,7 @@ When I’m not at work, I’m usually:
 
 
 ### 🌟 Featured Projects
-<p align="center">
+<p align="left">
     I don't Shit Publicly
 </p>
 
