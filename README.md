@@ -84,12 +84,12 @@ When I’m not at work, I’m usually:
   </a>
 </p>
 
-<div align="center">
+
 ### 🌟 Featured Projects
-<p align="left">
+<p align="center">
     I don't Shit Publicly
 </p>
-</div>
+
 
 ---
 
